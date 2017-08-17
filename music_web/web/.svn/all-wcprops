@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web
+END
+._template.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._template.py
+END
+._webopenid.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._webopenid.py
+END
+._http.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._http.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/__init__.py
+END
+._session.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._session.py
+END
+._db.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._db.py
+END
+._python23.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._python23.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/form.py
+END
+httpserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/httpserver.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/wsgi.py
+END
+template.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/template.py
+END
+._debugerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._debugerror.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/http.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/browser.py
+END
+._webapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._webapi.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/db.py
+END
+net.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/net.py
+END
+._wsgiserver
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._wsgiserver
+END
+python23.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/python23.py
+END
+._contrib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._contrib
+END
+._test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._test.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/utils.py
+END
+debugerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/debugerror.py
+END
+._browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._browser.py
+END
+._net.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._net.py
+END
+application.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/application.py
+END
+webapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/webapi.py
+END
+webopenid.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/webopenid.py
+END
+.___init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/.___init__.py
+END
+._utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._utils.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/test.py
+END
+._application.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._application.py
+END
+._form.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._form.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/session.py
+END
+._httpserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._httpserver.py
+END
+._wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/466467/fcr-ad/sunguoyu/scripts/segment/web/._wsgi.py
+END
